@@ -21,8 +21,6 @@ fun main(){
 
         println("I am teach English ")
     }
-    
-
     val objTeacher=Teacher()
     objTeacher.teachMath()
     objTeacher.teachPhysic()
